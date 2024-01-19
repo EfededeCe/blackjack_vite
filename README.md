@@ -1,5 +1,8 @@
 # BlackJack Vite
 
+## Para ver el proyecto en GitHub pages
+  https://efededece.github.io/blackjack_vite/
+
 Pasos para ejecutar el proyecto:
 
 1. Clonar repositorio
@@ -11,4 +14,6 @@ Pasos para ejecutar el proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+
 
