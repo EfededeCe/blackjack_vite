@@ -1,7 +1,6 @@
 # BlackJack Vite
 
-## Para ver el proyecto en GitHub pages
-  https://efededece.github.io/blackjack_vite/
+## Para ver el proyecto en [GitHub pages](https://efededece.github.io/blackjack_vite/)
 
 Pasos para ejecutar el proyecto:
 
